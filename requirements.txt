@@ -1,0 +1,4 @@
+arrow>=0.13.0
+pypd>=1.1.0
+python-intervals>=1.8.0
+python-dateutil>=2.7.5
