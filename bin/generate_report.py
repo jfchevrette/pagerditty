@@ -17,7 +17,7 @@ def parse_tz(value):
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='Process some integers.')
+    parser = argparse.ArgumentParser(description='Generate Pagerduty oncall waiting and working time reports.')
     parser.add_argument(
         '--pd_id',
         required=True,
